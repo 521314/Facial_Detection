@@ -25,6 +25,7 @@ run it on ubuntu:
 
 for example:
 python fully_running.py trainning
+
 python fully_running.py test
 
 Be careful, before running it, please change the route of data. It should be 
