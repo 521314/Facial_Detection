@@ -37,3 +37,5 @@ please run setup.sh, just type setup.sh on the ubuntu, it will work automaticall
 
 
 
+baidu onlin disk : 链接: http://pan.baidu.com/s/1b6Oooe 密码: 4ype
+They are PPT and a record of vedio.
